@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Section7</string>
+    <string name="action_settings">Settings</string>
+    <string name="path">font\BRUSHSCI.TTF</string>
+    <string name="hello">Hello World</string>
+    <string name="web">http://www.w3schools.com/html/</string>
+    <string name="sample">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed semper erat. Suspendisse pharetra nisl at augue efficitur vehicula. Cras finibus diam in interdum pulvinar. Phasellus nec ipsum neque. Sed eget turpis eros. Fusce non urna suscipit, tincidunt neque eget, porta orci. Cras vitae nisi sodales, facilisis libero sed, pellentesque urna. Cras volutpat, metus in euismod consectetur, leo sem viverra massa, lobortis venenatis mauris dolor volutpat nunc. Vestibulum quam lorem, auctor et elit vel, efficitur viverra leo. Cras volutpat tortor orci, ac imperdiet urna malesuada eget.
+
+Curabitur ac augue luctus, tristique mi et, vestibulum purus. Mauris iaculis rutrum aliquam. Vestibulum est velit, finibus a porttitor et, commodo ut mi. Nunc pulvinar augue eget fermentum tristique. Curabitur molestie dui ipsum, a interdum nunc fermentum at. Nam in sem dui. Mauris hendrerit est id dui vulputate, vel pellentesque erat luctus. Etiam condimentum sollicitudin mollis. Sed lacinia, enim aliquet vestibulum egestas, purus metus viverra felis, at sodales augue sem ac quam. Pellentesque id libero in arcu mattis sollicitudin. Donec eget pulvinar nunc. Nullam convallis venenatis mauris at ultrices. Integer et quam posuere urna porta ullamcorper eget sit amet sapien. Nullam maximus in tortor non ullamcorper. Suspendisse eu condimentum libero, nec egestas ex. Sed vitae lorem a augue dapibus porta sed vitae dolor.
+
+Duis pretium elit ut est lacinia, sit amet pharetra orci vehicula. Sed in sem vel lectus tristique ultrices. Aliquam erat volutpat. Mauris bibendum orci ut eros faucibus lacinia. Curabitur volutpat fringilla quam. Nulla laoreet, ligula auctor posuere pharetra, ipsum diam consequat nibh, id dignissim mi purus at erat. Sed rutrum, dolor at fermentum scelerisque, enim diam gravida ligula, eget congue ex sapien ut ipsum. Ut sagittis placerat quam, et blandit libero cursus nec.
+
+Proin elementum, ex eu tincidunt rutrum, felis leo placerat turpis, feugiat tincidunt risus nibh non sem. Cras sollicitudin elementum laoreet. Proin consequat ipsum id aliquet sodales. Sed porttitor massa id velit malesuada, eu sodales tellus eleifend. In hac habitasse platea dictumst. Nunc nec facilisis arcu. Fusce vitae scelerisque eros. Phasellus ultrices fermentum posuere. Cras dolor orci, sodales eget est sed, lacinia efficitur nibh. Suspendisse nulla ex, sodales ac efficitur nec, fringilla eget augue. Nunc bibendum odio vitae libero pellentesque mattis.
+
+Aenean nec ex in elit sollicitudin lobortis. Nulla ut lorem et metus rhoncus rhoncus. Donec cursus nibh quam, quis placerat lorem aliquet semper. Cras dictum, nisi a accumsan congue, augue metus viverra mi, id mollis enim nisi id massa. Ut at libero urna. Suspendisse tempor urna elit. Pellentesque sodales mi eu justo ultricies, nec lacinia diam pretium. Curabitur vehicula a purus eu ultrices. Etiam in euismod urna, nec blandit lorem. Suspendisse imperdiet lectus quam, eget placerat quam accumsan vel. Quisque feugiat sed ligula sit amet vulputate. Fusce massa turpis, vulputate ut consectetur vitae, vehicula quis quam.
+    </string>
+    <string name="burger">Burger Selected</string>
+    <string name="extra_cheese">Extra Cheese</string>
+    <string name="french_fries">French Fries</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string-array name="array">
+        <item>Apple</item>
+        <item>Orange</item>
+        <item>Banana</item>
+        <item>Nuts</item>
+    </string-array>
+
+    <string name="empty">There is no items in trhe view</string>
+
+
+</resources>
